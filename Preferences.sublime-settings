@@ -1,0 +1,58 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"node_modules/**"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Materialize/schemes/Material Spaceblack.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".phpintel",
+		".idea",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Fira Code Retina",
+	"font_options": "subpixel_antialias",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"index_exclude_patterns":
+	[
+		"*.log"
+	],
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
+	"material_theme_accent_indigo": true,
+	"material_theme_appbar_indigo": false,
+	"material_theme_tree_headings": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Material Spaceblack.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
