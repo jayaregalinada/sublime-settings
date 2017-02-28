@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->foreign('${1:table}')->references('${2:ref}')->on('${3:table}')->onDelete('cascade');
+\$table->foreign('${1:column}')->references('${2:ref}')->on('${3:table}')->onDelete('cascade');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>schemaforeign</tabTrigger>
