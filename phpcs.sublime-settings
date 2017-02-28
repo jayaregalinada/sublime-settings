@@ -1,0 +1,7 @@
+{
+    "phpcs_executable_path": "C:/tools/php/phpcs.bat",
+    "phpcbf_executable_path": "C:/tools/php/phpcbf.bat",
+    "php_cs_fixer_executable_path": "C:/Users/Jag/AppData/Roaming/Composer/vendor/bin/php-cs-fixer.bat",
+    "show_debug": true,
+    "phpcs_show_quick_panel": false,
+}
